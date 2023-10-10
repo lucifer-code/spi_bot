@@ -66,3 +66,5 @@ The **spi_bot** project is an exciting endeavor for robotics enthusiasts and mak
 
 Happy building and exploring the world of robotics with your **spi_bot**!
 
+## Credits
+Made by Vishal Aggarwal.
