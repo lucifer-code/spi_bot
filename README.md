@@ -68,3 +68,4 @@ Happy building and exploring the world of robotics with your **spi_bot**!
 
 ## Credits
 Made by Vishal Aggarwal.
+email: vishalaggarwal541@gmail.com
